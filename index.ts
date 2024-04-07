@@ -3,6 +3,6 @@
 //that person. Your message should be simple, such as, “Hello Eric, would you 
 //like to learn some Python today?”
 
- let userName = "Eric",
-message  (`"Hello ${userName}, would you like to laern some python today?");
+ let personName:  string = "Eric",
+console.log(`Hello ${personName}, would you like to laern some python today?`);
 
